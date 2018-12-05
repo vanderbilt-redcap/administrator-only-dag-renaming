@@ -1,0 +1,15 @@
+{
+	"name": "Administrator Only DAG Renaming",
+	"namespace": "Vanderbilt\\AdministratorOnlyDAGRenaming",
+	"authors": [
+		{
+			"name": "Mark McEver",
+			"email": "datacore@vumc.org",
+			"institution": "Vanderbilt University Medical Center"
+		}
+	],
+	"description": "Prevents users that are not REDCap administrators from renaming DAGs.",
+	"permissions": [
+		"redcap_every_page_top"
+	]
+}
